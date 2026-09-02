@@ -2,7 +2,7 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 1em;
-  line-height: 1.5;
+  line-height: 1.25;
 }
 
 /* header and footer areas */
@@ -11,8 +11,8 @@ body {
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;
-  padding: 0.5px;
-  border-radius: 0.5px;
+  padding: 5px;
+  border-radius: 5px;
 }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1em; }
